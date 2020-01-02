@@ -1,5 +1,5 @@
 # py-Management-System
-****
+
 &nbsp;  
 # What is this?
 A tiny management system created with **pure python** with Mysql.  
