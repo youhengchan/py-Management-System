@@ -2,7 +2,7 @@
 
 &nbsp;  
 ## What is this?
-A tiny management system created with **pure python** with Mysql.  
+A tiny management system created with **pure python** and Mysql.  
 &nbsp;  
 
 ## How it looks?  
