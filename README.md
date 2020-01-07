@@ -13,7 +13,9 @@ https://blog.csdn.net/chenhanxuan1999/article/details/103801977
 ## What do I need to build it myself?
 + Mysql
 + Python 3.6+
+  
 &nbsp;  
+  
 ## Dependent packages  
 + altgraph==0.16.1  
 + certifi==2019.9.11  
