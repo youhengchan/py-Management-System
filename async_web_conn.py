@@ -355,7 +355,7 @@ if __name__ == '__main__':
         password = StringField('password')
 
      # 创建一个实例：
-    u = User(id=12345, name='peic', email='peic@python.org', password='password')
+    u = User(id=12345, name='youheng', email='youhengchan@qq.com', password='password')
     print(u)
      # 保存到数据库：
     u.save()
